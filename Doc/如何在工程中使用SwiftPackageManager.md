@@ -21,7 +21,7 @@ Swift Package Manager（Swift 包管理器，一般简称SPM）是苹果官方�
 
 ## Q&A
 ### 如何协同开发者保持引入第三方包版本一致
-其实通过`project.xcworkspace/xcshareddata/swiftpm/Package.resolved`来保持，这个文件务必要提交上去。
+其实通过`project.xcworkspace/xcshareddata/swiftpm/Package.resolved`来保持一致，所以这个文件务必提交上去。
 
 
 
