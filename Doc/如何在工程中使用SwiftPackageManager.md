@@ -1,5 +1,5 @@
 # 如何在工程中使用SwiftPackageManager
-随着2019/09 Xcode11的发布，Swift Package Manager开始对IOS、TVOS和WatchOS全面支持，可以正式取代Cocoapods和Carthage来管理第三方库依赖。
+随着2019/09 Xcode11的发布，Swift Package Manager开始对iOS、tvOS和watchOS全面支持，可以正式取代cocoapods和carthage来管理第三方库依赖。
 
 ## Swift Package Manager是什么
 Swift Package Manager（Swift 包管理器，一般简称SPM）是苹果官方提供的一个用于管理源代码分发的工具，旨在使分享代码和复用其他人的代码变得更加容易。该工具提供编译、链接Swift package、管理依赖关系、版本控制，以及支持灵活分发和协作。
