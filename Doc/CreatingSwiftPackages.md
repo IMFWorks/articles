@@ -26,7 +26,7 @@ $ swift package init -- type=library
 $ swift build
 $ swift test
 ```
-查看Mylibrary目录内容如下：![](../Image/MyLibraryFolder.png)
+查看Mylibrary目录内容如下：![MyLibrary文件夹内容](../Image/MyLibraryFolder.png)
 
 - README.md 描述包具有功能
 - Package.swift 包清单文件，描述包配置。定义包name、platforms、product、target和dependencies
