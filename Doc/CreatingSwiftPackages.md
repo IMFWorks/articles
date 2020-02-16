@@ -106,7 +106,9 @@ let package = Package(
 
 
 ## Q&A
- 
+### Target是否支持C/C++/Objective-C
+支持，但不支持混合编译
+
 
 ## 引用
 - [Creating Swift Packages](https://developer.apple.com/videos/play/wwdc2019/410/)
